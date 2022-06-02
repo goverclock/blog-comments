@@ -1,6 +1,6 @@
 # blog-comments
 
-https://gozsoft.github.io/
+https://goverclock.github.io/
 
 博客采用Gitalk,这里存储评论.
 
